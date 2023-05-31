@@ -13,10 +13,16 @@ questions = ("1. What is the best selling aircraft in the world?\n a: A320\n b: 
              "3. When was the first plane made?\n a: 1893\n b: 1915\n c: 1900 \n d: 1903",
              "4. How many buttons and switches are in the cockpit of the Airbus A380?\n a: 420\n b: 273\n c: 320\n d: 490",
              "5. What airline has the call sign CACTUS?\n a: American Airlines\n b: US Airways\n c: Emirates\n d: None",
-             "6. What does the acronym APU stand for?\n a: Alternate Propulsion Unit\n  b: Automatic Pilot Utility\n c: Auxiliary Power Unit\n d: Airborne parachute utility")
+             "6. What does the acronym APU stand for?\n a: Alternate Propulsion Unit\n  b: Automatic Pilot Utility\n c: Auxiliary Power Unit\n d: Airborne parachute utility",
+             "7. What plane is known as the queen of the skies?\n a: Boeing 747\n b: Concord\n c: Airbus A380\n d: Boeing 737",
+             "8. What is the 4 letter airport code for sydney's international airport?\n a: KLAX\n b: NZAA\n c: YSSY\n d: AUSD",
+             "9. What was the fastest passenger plane in the world?\n a: A380\n b: SR-71\n c: Boeing 787\n d: Concord",
+             "10. True or false. Is there an A380 freighter?\n a: True\n b: False",
+             "11. What is the biggest plane in the world?\n a: Airbus A380\n b: Boeing 747\n c:Antonov 225\n d: Boeing 787",
+             "12. What is the length of the longest runway in the world?")
 
 # Making the tuple the stores all the answers
-answers = ("c", "a", "d", "d", "b", "c")
+answers = ("c", "a", "d", "d", "b", "c", "a", "c", "d", "b", "c")
 
 
 def qna():  # Making the questions function
