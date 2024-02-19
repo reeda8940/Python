@@ -1,5 +1,6 @@
 import time
 
+print("hello")
 # Making the tuple that stores all the questions
 questions = ("\n1. What is the best selling aircraft in the world?\n a: A320\n b: Boeing 737\n c: Cessna 172\n d: A380",
              "\n2. What is the first plane ever created?\n a: The Wright Flyer\n b: Boeing 001\n c: Airbus A123\n d: The Airplane",
